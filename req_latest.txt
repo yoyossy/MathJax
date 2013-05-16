@@ -1,0 +1,15 @@
+Jinja2==2.6
+Pygments==1.6
+Sphinx==1.2b1
+aafigure==0.5
+actdiag==0.4.3
+blockdiag==1.2.4
+docutils==0.10
+funcparserlib==0.3.6
+pillow==2.0.0
+seqdiag==0.8.2
+sphinxcontrib-aafig==1.0
+sphinxcontrib-actdiag==0.5.1
+sphinxcontrib-blockdiag==1.2.0
+sphinxcontrib-seqdiag==0.5.1
+webcolors==1.4
