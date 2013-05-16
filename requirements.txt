@@ -1,7 +1,14 @@
 Docutils
+Pygments
 Jinja2
 Sphinx
 sphinxcontrib-aafig
 sphinxcontrib-actdiag
 sphinxcontrib-blockdiag
 sphinxcontrib-seqdiag
+xlrd
+sphinxcontrib-exceltable
+sphinxcontrib-programoutput
+reportlab
+rst2pdf
+numpydoc
