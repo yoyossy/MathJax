@@ -1,0 +1,7 @@
+Docutils
+Jinja2
+Sphinx
+sphinxcontrib-aafig
+sphinxcontrib-actdiag
+sphinxcontrib-blockdiag
+sphinxcontrib-seqdiag
